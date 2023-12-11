@@ -15,7 +15,6 @@ The device can be used for:
 -	Monitoring of garden in front of your house  
 -	Monitoring of the front door of the house  
 -	You can use free software like FlashBack Express Recorder to record footage from those cameras while you are connected to the website http://streetview.com  
--	For smooth recording of video footage you can convert HDMI to MP4 with devices like: ClearClick HD Video Capture Box Ultimate - Capture and Stream Video from HDMI, RCA, VHS, VCR, DVD, Camcorders, Hi8. Or combination of the following 2 devices, which is a cheaper option for getting 640 x 480 video capturing resolution:  
+-	For smooth recording of video footage you can convert HDMI to MP4 with devices like: ClearClick HD Video Capture Box Ultimate. Or use combination of the following 2 devices, which is a cheaper option for getting 640 x 480 video capturing resolution:  
 1.) HDMI to AV/S-Video converter  
-2.) Elgato Video Capture - conversion from AV/S-Video to TS or MP4  
-
+2.) Elgato Video Capture - conversion from AV/S-Video to TS and/or MP4  
