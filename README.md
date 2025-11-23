@@ -29,7 +29,7 @@ https://github.com/blackarrow20/future_of_the_world/blob/main/My%20banking%20inf
 - Dual USB webcams, both accessible via a website within LAN: http://192.168.0.200 
 - Zero-configuration: plug in router + Raspberry Pi → connect & monitor  
 - Preinstalled Ubuntu Server + web streaming system  
-- The client works on any device (Android, iOS, Windows, Linux, macOS)  
+- The client works on browsers on any of up-to-date devices (Android, iOS, Windows, Linux, macOS)  
 - Built specifically for street-side visibility while exiting parking spots  
 - Supports direct Wi-Fi or wired Ethernet connections  
 - Optional full-screen recording using free PC software  
