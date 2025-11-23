@@ -52,10 +52,10 @@ After powering on the Raspberry Pi + TP-Link router:
 ## 📘 Usage Examples
 
 ### 🚗 Street monitoring when joining traffic  
-Use both cameras to preview the street before merging.
+Use both cameras to preview the street before joining traffic.
 
 ### 🏡 Home & yard monitoring  
-Front door, driveway, garden, garage, office, baby room, etc.
+Front door, driveway, garden, garage, office, store, baby room, etc.
 
 ### 🔧 LAN monitoring  
 View the feed from any device connected via Wi-Fi or Ethernet.
