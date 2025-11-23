@@ -1,20 +1,87 @@
-# LICENSE
-Parking cameras system  
+# 📡 Street View Lance  
+### Raspberry Pi–Powered Dual-Camera Street Monitoring System
 
-**LICENSE**  
-By this license you are allowed to sell and distribute this product, however 10% of product price is to be paid to author for every sold product, while project details are open-source including both: hardware and software. You can check my banking information here:  
-https://github.com/blackarrow20/future_of_the_world/blob/main/My%20banking%20information.pdf  
-My American Paypal account: ice_vii@engineer.com  
-My Bosnian Paypal account: adajic91@gmail.com -> I don’t want money being sent to this one  
+Street View Lance is a plug-and-play street monitoring setup based on **Raspberry Pi 4 + two USB webcams**, designed for safe traffic entry, driveway visibility, home surveillance, and general LAN-based monitoring.  
+The entire project—hardware + software—is fully open source and ready for modification or commercial use.
 
-## Usage/Examples  
+---
 
-The device can be used for:
--	Street monitoring: when you are joining traffic from a parking spot, connect to the wireless access point with your mobile phone or tablet, and see footage from 2 cameras monitoring the street via website: http://192.168.0.200  
--	Connect directly to wireless access point with your mobile phone, PC or laptop within range, then access footage from cameras via website: http://192.168.0.200 If wifi is not within range, you can use long ethernet cable  
--	Monitoring of garden in front of your house  
--	Monitoring of the front door of the house  
--	You can use free software like FlashBack Express Recorder to record footage from those cameras while you are connected to the website http://192.168.0.200  
--	For smooth recording of video footage you can convert HDMI to MP4 with devices like: ClearClick HD Video Capture Box Ultimate. Or use combination of the following 2 devices, which is a cheaper option for getting 640 x 480 video capturing resolution:  
-1.) HDMI to AV/S-Video converter  
-2.) Elgato Video Capture - conversion from AV/S-Video to TS and/or MP4  
+## 📄 License
+
+This project is open-source, including all hardware and software details.  
+You are free to sell, redistribute, and modify the system under the following condition:
+
+### 💰 10% Royalty Fee  
+For every sold device or commercial deployment, **10% of the product price must be paid to the author**.
+
+**Banking information:**  
+https://github.com/blackarrow20/future_of_the_world/blob/main/My%20banking%20information.pdf
+
+**PayPal (Recommended):**
+
+- 🇺🇸 **USA PayPal:** `ice_vii@engineer.com`  
+- 🇧🇦 **Bosnia PayPal:** `adajic91@gmail.com` *(do NOT send funds here)*
+
+---
+
+## 🚀 Features
+
+- Dual USB webcams, both accessible via a website within LAN: http://192.168.0.200 
+- Zero-configuration: plug in router + Raspberry Pi → connect & monitor  
+- Preinstalled Ubuntu Server + web streaming system  
+- The client works on any device (Android, iOS, Windows, Linux, macOS)  
+- Built specifically for street-side visibility while exiting parking spots  
+- Supports direct Wi-Fi or wired Ethernet connections  
+- Optional full-screen recording using free PC software  
+- Hardware-level recording possible via HDMI converters  
+
+---
+
+## 📲 Accessing the Live Stream
+
+After powering on the Raspberry Pi + TP-Link router:
+
+1. Connect your device to the Wi-Fi network:  
+   **`Street View X`**
+2. Open the following link in any browser:  
+   👉 **http://192.168.0.200**
+3. View live video from both cameras instantly.
+
+---
+
+## 📘 Usage Examples
+
+### 🚗 Street monitoring when joining traffic  
+Use both cameras to preview the street before merging.
+
+### 🏡 Home & yard monitoring  
+Front door, driveway, garden, garage, office, baby room, etc.
+
+### 🔧 LAN monitoring  
+View the feed from any device connected via Wi-Fi or Ethernet.
+
+### 🎥 Recording the video stream  
+Use free tools like **FlashBack Express Recorder** to record the webpage stream.
+
+### 📼 Smooth hardware video capture  
+HDMI to MP4 with devices like: ClearClick HD Video Capture Box Ultimate
+For lag-free external recording, use:
+- HDMI → AV/S-Video converter  
+- Elgato Video Capture (AV/S-Video → MP4)
+
+*(Budget setup supports 640×480 capture.)*
+
+---
+
+## 🛠 Hardware Used
+
+- Raspberry Pi 4 (4GB RAM)  
+- SanDisk Extreme 64GB microSD  
+- TP-Link WR840N router  
+- Two USB webcams  
+- Raspberry Pi protective case  
+- Micro-HDMI → HDMI cable  
+- A short Ethernet cable 
+- Custom web streaming setup supporting two cameras
+
+---
