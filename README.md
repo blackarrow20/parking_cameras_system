@@ -64,7 +64,7 @@ View the feed from any device connected via Wi-Fi or Ethernet.
 Use free tools like **FlashBack Express Recorder** to record the webpage stream.
 
 ### 📼 Smooth hardware video capture  
-HDMI to MP4 with devices like: ClearClick HD Video Capture Box Ultimate
+HDMI to MP4 with devices like: ClearClick HD Video Capture Box Ultimate  
 For lag-free external recording, use:
 - HDMI → AV/S-Video converter  
 - Elgato Video Capture (AV/S-Video → MP4)
